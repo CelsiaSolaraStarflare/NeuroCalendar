@@ -1,5 +1,6 @@
-Local Setup Guide for NeuroCal
+**Local Setup Guide for NeuroCal
 This guide details the steps required to run the NeuroCal.jsx file, a React component using Tailwind CSS, on your local machine.
+NeuroCalendar made by Gemini, Prompted by CelsiaStarflare
 
 ## 1. Prerequisites
 Before starting, ensure you have the following installed:
@@ -36,3 +37,4 @@ Initialize Tailwind configuration files:
 ```
 npx tailwindcss init -p
 ```
+**
